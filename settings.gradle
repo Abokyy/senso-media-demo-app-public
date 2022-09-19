@@ -1,0 +1,14 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.name = "SensoMediaDemo"
+include ':app'
+include ':core'
+include ':data'
+include ':domain'
+include ':features'

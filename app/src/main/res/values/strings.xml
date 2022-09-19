@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">SensoMediaDemo</string>
+    <string name="survey">Kérdőív</string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="next">Következő</string>
+    <string name="previous">Előző</string>
+    <string name="anonimity_message">Ha anonim módon szeretnéd kitölteni a kérdőívet, akkor itt van lehetőséged jelezni ezt.</string>
+    <string name="type_your_message_here">Ide írd az üzeneted!</string>
+    <string name="something_went_wrong">Valami hiba történt!</string>
+    <string name="welcome">Üdvözlünk</string>
+    <string name="understood">Megértettem</string>
+    <string name="close_app">App bezárása</string>
+    <string name="camera_not_allowed">A kamera nincs engedélyezve</string>
+    <string name="camera_permission_rationale">A kamera elengedhetetlen a bejelentkezéshez. Kérlek engedélyezd!</string>
+    <string name="request_permission">Engedély kérése</string>
+    <string name="dont_show_again">Ne mutasd ezt újra</string>
+    <string name="camera_permission_denied">Kamera engedély elutasítva. Kérlek engedélyezd az App beállításaiban!</string>
+    <string name="open_settings">Beállítások megnyitása</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="login_screen_message">Örülünk hogy itt látunk!\nA folytatáshoz kérlek olvasd le a kapott QR kódot</string>
+    <string name="scan">Beolvasás</string>
+    <string name="take_as_anonym">Anonim módon szeretném elküldeni.</string>
+    <string name="you_can_select_multiple">Többet is megjelölhetsz</string>
+    <string name="hate_it">Fúj, utálom</string>
+    <string name="very_cool">Istencsászár</string>
+    <string name="your_answer">Válaszod</string>
+    <string name="cancel">Mégsem</string>
+    <string name="exit">Kilépés</string>
+    <string name="are_you_sure_to_exit">Biztosan meg akarja-e szakítani a kérdőív kitöltését? Az eddigi leadott válaszai elvesznek”</string>
+    <string name="survey_fill_success">Sikeresen kitöltötted a kérdőívet! Köszönjük!</string>
+    <string name="send_in_email">Válaszok elküldése emailben</string>
+    <string name="survey_answers">Kérdőív válaszok</string>
+    <string name="finish">Befejezés</string>
+    <string name="app_closed">App bezárva</string>
+    <string name="no_internet_connection">Nincs internetkapcsolat</string>
+</resources>

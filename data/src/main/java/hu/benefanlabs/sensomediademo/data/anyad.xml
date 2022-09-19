@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <row>
+        <id>1</id>
+        <questions>
+            <id>0</id>
+            <question>Első próba kérdés</question>
+            <image />
+            <type>single_select</type>
+            <ansewrs>
+                <id>0</id>
+                <answer>Első válasz</answer>
+            </ansewrs>
+            <ansewrs>
+                <id>1</id>
+                <answer>Második válasz</answer>
+            </ansewrs>
+            <ansewrs>
+                <id>2</id>
+                <answer>Harmadik válasz</answer>
+            </ansewrs>
+            <ansewrs>
+                <id>A</id>
+                <answer>Negyedik válasz</answer>
+            </ansewrs>
+            <ansewrs>
+                <id>5</id>
+                <answer>Ötödik válasz</answer>
+            </ansewrs>
+            <ansewrs>
+                <id>8</id>
+                <answer>Hatodik válasz</answer>
+            </ansewrs>
+            <ansewrs>
+                <id>D</id>
+                <answer>Hetedik válasz</answer>
+            </ansewrs>
+            <ansewrs>
+                <id>E</id>
+                <answer>Nyolcadik válasz</answer>
+            </ansewrs>
+        </questions>
+        <questions>
+            <id>1</id>
+            <question>Második próba kérdés</question>
+            <type>multi_select</type>
+            <image />
+            <ansewrs>
+                <id>0</id>
+                <answer>Piros</answer>
+            </ansewrs>
+            <ansewrs>
+                <id>1</id>
+                <answer>Fehér</answer>
+            </ansewrs>
+            <ansewrs>
+                <id>2</id>
+                <answer>Kék</answer>
+            </ansewrs>
+            <ansewrs>
+                <id>3</id>
+                <answer>Zöld</answer>
+            </ansewrs>
+            <ansewrs>
+                <id>4</id>
+                <answer>Narancs</answer>
+            </ansewrs>
+            <ansewrs>
+                <id>5</id>
+                <answer>Lila</answer>
+            </ansewrs>
+        </questions>
+        <questions>
+            <id>3</id>
+            <question>Harmadik próba kérdés</question>
+            <type>free_text</type>
+            <image>https://picsum.photos/400/250</image>
+        </questions>
+        <questions>
+            <id>4</id>
+            <question>Negyedik próba kérdés</question>
+            <type>stars</type>
+            <image>https://picsum.photos/400/250</image>
+            <ansewrs>
+                <id>0</id>
+                <answer>1</answer>
+            </ansewrs>
+            <ansewrs>
+                <id>1</id>
+                <answer>2</answer>
+            </ansewrs>
+            <ansewrs>
+                <id>2</id>
+                <answer>3</answer>
+            </ansewrs>
+            <ansewrs>
+                <id>3</id>
+                <answer>4</answer>
+            </ansewrs>
+            <ansewrs>
+                <id>4</id>
+                <answer>5</answer>
+            </ansewrs>
+        </questions>
+        <questions>
+            <id>6</id>
+            <question />
+            <type>slider</type>
+            <image />
+            <ansewrs>
+                <id>0</id>
+                <answer>1</answer>
+            </ansewrs>
+            <ansewrs>
+                <id>1</id>
+                <answer>2</answer>
+            </ansewrs>
+            <ansewrs>
+                <id>2</id>
+                <answer>3</answer>
+            </ansewrs>
+            <ansewrs>
+                <id>3</id>
+                <answer>4</answer>
+            </ansewrs>
+            <ansewrs>
+                <id>4</id>
+                <answer>5</answer>
+            </ansewrs>
+            <ansewrs>
+                <id>5</id>
+                <answer>6</answer>
+            </ansewrs>
+        </questions>
+        <questions>
+            <id>8</id>
+            <question />
+            <type>free_text</type>
+            <image />
+            <ansewrs />
+        </questions>
+        <questions>
+            <id>16</id>
+            <question>2 meg kettő?</question>
+            <type>slider</type>
+            <image />
+            <ansewrs>
+                <id>a</id>
+                <answer>1</answer>
+            </ansewrs>
+            <ansewrs>
+                <id>1</id>
+                <answer>2</answer>
+            </ansewrs>
+            <ansewrs>
+                <id>2</id>
+                <answer>3</answer>
+            </ansewrs>
+            <ansewrs>
+                <id>3</id>
+                <answer>4</answer>
+            </ansewrs>
+            <ansewrs>
+                <id>4</id>
+                <answer>5</answer>
+            </ansewrs>
+            <ansewrs>
+                <id>5</id>
+                <answer>6</answer>
+            </ansewrs>
+        </questions>
+    </row>
+</root>

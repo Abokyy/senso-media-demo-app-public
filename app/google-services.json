@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "203502266152",
+    "project_id": "senso-media-demo-app",
+    "storage_bucket": "senso-media-demo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203502266152:android:9bbb79c05a3fb0dd6c921d",
+        "android_client_info": {
+          "package_name": "hu.benefanlabs.sensomediademo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203502266152-f2ujuqqojaaqvk47kqm6j7vunkagcl0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfYY3MF-Q0FCgWNp5z8aOqOXjwDtpj2BU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203502266152-f2ujuqqojaaqvk47kqm6j7vunkagcl0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
